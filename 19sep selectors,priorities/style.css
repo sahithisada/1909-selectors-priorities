@@ -1,0 +1,28 @@
+
+img{
+    width: 300px;
+    height: 200px;
+}
+#body{
+    background-color: rgb(220, 247, 251);
+}
+h1{
+    background-color: rgb(161, 188, 224);
+    color:rgb(245, 243, 129);
+    border: 5px solid rgb(243, 104, 104);
+    text-align: center;
+}
+#topHeading{
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px rgb(33, 37, 34);
+}
+.sport{
+    background-color: black;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px gray;
+}
+
+.spacing{
+    margin: 3px;
+    border-radius: 50%;
+}
